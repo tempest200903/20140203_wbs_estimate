@@ -1,4 +1,9 @@
+*~
+.*
+!.gitignore
 *.class
+target
+dependency-reduced-pom.xml
 
 # Package Files #
 *.jar
